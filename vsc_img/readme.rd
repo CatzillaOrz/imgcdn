@@ -1,0 +1,1 @@
+# img_readme_for_vsc_pic_uploading_plugin
